@@ -344,7 +344,7 @@
 
 .vt-tabs .nav-link.active {
   background: linear-gradient(135deg, rgba(95, 132, 255, 0.35), rgba(35, 42, 86, 0.7)) !important;
-  color: #0c1b52 !important;
+  color: #f6f8ff !important;
   border-color: rgba(130, 160, 255, 0.6) !important;
   box-shadow: inset 0 0 0 1px rgba(181, 206, 255, 0.3), 0 14px 28px rgba(35, 52, 94, 0.35);
 }
