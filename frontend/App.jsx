@@ -107,6 +107,8 @@ const buildSummary = (entityType, vtPayload) => {
     }
   }
 
+  
+
   return null;
 };
 
