@@ -2,7 +2,7 @@
   position: relative;
   min-height: 100vh;
   background: radial-gradient(160% 160% at 50% -20%, #2f3f85 0%, #10141f 45%, #04060f 100%) !important;
-  color: #081a31 !important;
+  color: #e2e8f0 !important;
   overflow: hidden;
 }
 
@@ -189,7 +189,7 @@
 .hero-cta-secondary:hover {
   transform: translateY(-1px);
   border-color: rgba(173, 189, 255, 0.5) !important;
-  color: #ffffff !important;
+  color: #945e5e !important;
 }
 
 .hero-eyebrow {
