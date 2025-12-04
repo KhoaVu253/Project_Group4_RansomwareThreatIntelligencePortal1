@@ -286,7 +286,7 @@
 .console-note {
   border-radius: 16px;
   padding: 1.25rem 1.5rem;
-  border: 1px dashed rgba(71, 89, 148, 0.35);
+  border: 1px dashed rgba(130, 160, 255, 0.35);
   background: rgba(20, 28, 52, 0.45);
   color: #d8e2ff !important;
 }
@@ -298,7 +298,7 @@
 }
 
 .console-note p {
-  color: #c5d2ed !important;
+  color: #335399 !important;
   opacity: 1 !important;
 }
 
