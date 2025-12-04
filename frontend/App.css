@@ -188,8 +188,8 @@
 
 .hero-cta-secondary:hover {
   transform: translateY(-1px);
-  border-color: rgba(173, 189, 255, 0.5) !important;
-  color: #945e5e !important;
+  border-color: rgba(58, 61, 71, 0.5) !important;
+  color: #ffffff !important;
 }
 
 .hero-eyebrow {
